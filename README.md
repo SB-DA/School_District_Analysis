@@ -48,8 +48,9 @@ We replaced the 9th grades reading and math scores with NAN and run an analysis 
 
 #### Scores by school spending
  - We didn't notice any changes in the School Speding analysis as well.Below is the screenshot.
-  
- ![image](https://user-images.githubusercontent.com/78935551/112740164-ab57b000-8f48-11eb-92b8-ae99cd7df348.png)
+
+![image](https://user-images.githubusercontent.com/78935551/112740290-b6f7a680-8f49-11eb-96ec-58d1c8829277.png)
+
 
 #### Scores by school size
 ![image](https://user-images.githubusercontent.com/78935551/112740175-c0344380-8f48-11eb-9bbf-c54eaef2c6be.png)
