@@ -58,12 +58,8 @@ We replaced the 9th-grade reading and math scores with NAN and run an analysis a
 - There was no changes to the Scores by School Size as well.
 ![image](https://user-images.githubusercontent.com/78935551/112741325-c29b9b00-8f52-11eb-8f02-47566ed10ec5.png)
 
-
 #### Scores by school type
-
-#### Old Summary 
-
-#### New Suumary 
+- There was no change to the scores by School type.
 ![image](https://user-images.githubusercontent.com/78935551/112741347-f7a7ed80-8f52-11eb-9674-8ceb715b7d9f.png)
 
 
