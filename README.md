@@ -16,7 +16,7 @@ She has asked us to replace the math and reading scores for Thomas High School w
 
 ## Challenge Results
 ### Affect on District Summary
-- After Altering reading and math grades for Thomas High School ninth graders there was a small decline in overall Scores as you can see below in the images.
+- After altering reading and math grades for Thomas High School ninth graders there was a small decline in overall Scores as you can see below in the images.
 We replaced the 9th grades reading and math scores with NAN and run an analysis accordingly.
 ##### Old District Summary 
 ![image](https://user-images.githubusercontent.com/78935551/112738583-78a6bb00-8f3a-11eb-8ef2-2033a57397df.png)
@@ -24,7 +24,13 @@ We replaced the 9th grades reading and math scores with NAN and run an analysis 
 ##### New District Summary 
 ![image](https://user-images.githubusercontent.com/78935551/112738588-88260400-8f3a-11eb-8fd5-ebcdcebbcfa3.png)
 
-- How is the school summary affected?
+- There was a slight decline in 
+##### Old School Summary
+![image](https://user-images.githubusercontent.com/78935551/112739044-e3f28c00-8f3e-11eb-8301-e8c045a4d7c4.png)
+
+##### New School Summary 
+![image](https://user-images.githubusercontent.com/78935551/112739058-04bae180-8f3f-11eb-989c-573b965fa483.png)
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
