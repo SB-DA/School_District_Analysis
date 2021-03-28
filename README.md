@@ -43,20 +43,29 @@ We replaced the 9th-grade reading and math scores with NAN and run an analysis a
 
 #### Math and reading scores by grade 
 - There was no effect on the 10th to 12th grades. 9th-grade scores showed as NAN.
+#### Math Scores
+![image](https://user-images.githubusercontent.com/78935551/112741257-2c677500-8f52-11eb-9918-041b15a68993.png)
 
-![image](https://user-images.githubusercontent.com/78935551/112740026-68e1a380-8f47-11eb-939e-46b39c989135.png)
+#### Reading Scores
+![image](https://user-images.githubusercontent.com/78935551/112741271-42753580-8f52-11eb-9f07-8e4b19f38b6b.png)
 
 #### Scores by school spending
- - We didn't notice any changes in the School Spending analysis as well. Below is the screenshot.
+ - We didn't notice any changes in the scores by school spending analysis. 
 
-![image](https://user-images.githubusercontent.com/78935551/112740290-b6f7a680-8f49-11eb-96ec-58d1c8829277.png)
-
+![image](https://user-images.githubusercontent.com/78935551/112741302-91bb6600-8f52-11eb-81e6-ec6c330f8557.png)
 
 #### Scores by school size
-![image](https://user-images.githubusercontent.com/78935551/112740175-c0344380-8f48-11eb-9bbf-c54eaef2c6be.png)
+- There was no changes to the Scores by School Size as well.
+![image](https://user-images.githubusercontent.com/78935551/112741325-c29b9b00-8f52-11eb-8f02-47566ed10ec5.png)
+
 
 #### Scores by school type
-![image](https://user-images.githubusercontent.com/78935551/112740177-c9251500-8f48-11eb-9ebc-2a2cb41188d2.png)
+
+#### Old Summary 
+
+#### New Suumary 
+![image](https://user-images.githubusercontent.com/78935551/112741347-f7a7ed80-8f52-11eb-9674-8ceb715b7d9f.png)
+
 
 
 
